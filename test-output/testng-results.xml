@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6620" started-at="2022-07-01T09:55:08Z" finished-at="2022-07-01T09:55:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6620" started-at="2022-07-01T09:55:08Z" finished-at="2022-07-01T09:55:15Z">
+      <class name="IBM.API_Assignment.apiTestCases">
+        <test-method status="PASS" signature="getuser()[pri:0, instance:IBM.API_Assignment.apiTestCases@2eee9593]" name="getuser" duration-ms="4288" started-at="2022-07-01T15:25:08Z" finished-at="2022-07-01T15:25:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getuser -->
+        <test-method status="PASS" signature="loginuser()[pri:0, instance:IBM.API_Assignment.apiTestCases@2eee9593]" name="loginuser" duration-ms="2314" started-at="2022-07-01T15:25:12Z" finished-at="2022-07-01T15:25:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginuser -->
+      </class> <!-- IBM.API_Assignment.apiTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
